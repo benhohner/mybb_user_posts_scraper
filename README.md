@@ -1,4 +1,4 @@
-mybb_user_posts_scraper
+MyBB User Posts Scraper
 =======================
 
-A very very basic scraper for a users' posts search results in mybb
+A very very basic scraper for a users' posts search results in mybb.
